@@ -1,7 +1,7 @@
 package marchMaadness;
 
 import java.util.HashMap;
-/* data taken from - https://www.reddit.com/r/CollegeBasketball/comments/1bi0j24/2024_march_madness_probability_table/*/
+
 public class Data {
     public HashMap<String, Double> getEastRound1()
     {
